@@ -1,0 +1,157 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+
+}
+
+body {
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	font-family: "helvetica";
+	color: rgb (86,86,86);
+	::selection { background-color: #c8fde0; }
+	img {
+		width: 100%;
+		cursor: pointer;
+	}
+}
+
+#main { width: 100%; }
+
+.container {
+	padding-top: 50px;
+	padding-right:300px;
+	padding-left: 35px;
+	padding-bottom: 300px;
+	@include group;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+
+a:hover {
+	text-decoration: underline;
+} 
+
+
+
+body.vals-del-abismo {
+	.proyect-nav {
+		.vals-del-abismo {
+			text-decoration: underline;
+		}
+	}
+}
+body.rituales-silenciosos {
+	.proyect-nav {
+		.rituales-silenciosos {
+			text-decoration: underline;
+		}
+	}
+}
+body.constelaciones-mentales {
+	.proyect-nav {
+		.constelaciones-mentales {
+			text-decoration: underline;
+		}
+	}
+}
+body.historia-de-las-variaciones {
+	.proyect-nav {
+		.historia-de-las-variaciones {
+			text-decoration: underline;
+		}
+	}
+}
+body.cantico-del-descenso {
+	.proyect-nav {
+		.cantico-del-descenso {
+			text-decoration: underline;
+		}
+	}
+}
+body.columnas-invisibles {
+	.proyect-nav {
+		.columnas-invisibles {
+			text-decoration: underline;
+		}
+	}
+}
+body.coreografia-del-colapso {
+	.proyect-nav {
+		.coreografia-del-colapso {
+			text-decoration: underline;
+		}
+	}
+}
+body.marcha-de-sombras {
+	.proyect-nav {
+		.marcha-de-sombras {
+			text-decoration: underline;
+		}
+	}
+}
+body.el-fracaso-de-la-memoria {
+	.proyect-nav {
+		.el-fracaso-de-la-memoria {
+			text-decoration: underline;
+		}
+	}
+}
+body.notas-de-carnaval {
+	.proyect-nav {
+		.notas-de-carnaval {
+			text-decoration: underline;
+		}
+	}
+}
+body.line-out{
+	.proyect-nav {
+		.line-out{
+			text-decoration: underline;
+		}
+	}
+}
+body.selected-works {
+	.proyect-nav {
+		.selected-works {
+			text-decoration: underline;
+		}
+	}
+}
+body.text {
+	.proyect-nav {
+		.text {
+			text-decoration: underline;
+		}
+	}
+}
+body.biography{
+	.proyect-nav {
+		.biography{
+			text-decoration: underline;
+		}
+	}
+}
+
+
+body.contact {
+	.proyect-nav {
+		.contact {
+			text-decoration: underline;
+		}
+	}
+}
+
+body.publications {
+	.proyect-nav {
+		.publications {
+			text-decoration: underline;
+		}
+	}
+}

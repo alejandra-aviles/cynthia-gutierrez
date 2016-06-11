@@ -1,0 +1,57 @@
+h1 {
+	font-size: 2.5em;
+	letter-spacing: 0.6px;
+	font-weight: 500;
+}
+
+h2 {
+	font-size: 1.5em;
+	letter-spacing: 0.8px;
+}
+
+h3 {
+	line-height: 30px;
+}
+
+h4 {
+	font-size: 0.8em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h5 {
+	font-size: 0.9em;
+	letter-spacing: 1.3px;
+
+}
+
+h6 {
+	font-size: 0.9em;
+	letter-spacing: 0.5px;
+	line-height: 18px;
+
+}
+
+p {
+
+	font-size: 1.1em;
+	line-height: 1.6em;
+	letter-spacing: 0.7px;
+	font-weight: 400;
+	color: black;
+	padding-bottom: 10px;
+}
+
+
+em {
+	font-style: italic;
+}
+
+
+span {
+
+}
+
+iframe + p {
+	margin-top:30px;
+}
